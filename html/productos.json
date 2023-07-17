@@ -1,0 +1,87 @@
+[
+    {
+        "id":"T-Shirt 1",
+        "img":"../img/products/f1.jpg",
+        "marca":"ASTe",
+        "nombre":"Cartoon Astronaut T-Shirt",
+        "precio":7600
+    },
+    {
+        "id":"T-Shirt 2",
+        "img":"../img/products/f2.jpg",
+        "marca":"ASTe",
+        "nombre":"Cartoon Astronaut T-Shirt",
+        "precio":7600
+    },
+    {
+        "id":"T-Shirt 3",
+        "img":"../img/products/f3.jpg",
+        "marca":"ASTe",
+        "nombre":"Cartoon Astronaut T-Shirt",
+        "precio":7600
+    },
+    {
+        "id":"T-Shirt 4",
+        "img":"../img/products/f4.jpg",
+        "marca":"ASTe",
+        "nombre":"T-Shirt",
+        "precio":7600
+    },
+    {
+        "id":"T-Shirt 5",
+        "img":"../img/products/f5.jpg",
+        "marca":"ASTe",
+        "nombre":"Cartoon Astronaut T-Shirt",
+        "precio":7600
+    },
+    {
+        "id":"T-Shirt 6",
+        "img":"../img/products/f6.jpg",
+        "marca":"ASTe",
+        "nombre":"shirt and t-shirt",
+        "precio":7600
+    },
+    {
+        "id":"pant 7",
+        "img":"../img/products/f7.jpg",
+        "marca":"ASTe",
+        "nombre":"pants",
+        "precio":15000
+    },
+    {
+        "id":"T-Shirt 8",
+        "img":"../img/products/f8.jpg",
+        "marca":"ASTe",
+        "nombre":"T-Shirt",
+        "precio":10000
+    },
+    {
+        "id":"T-Shirt 9",
+        "img":"../img/products/n1.jpg",
+        "marca":"ASTe",
+        "nombre":"Shirt",
+        "precio":7500
+    },
+    {
+        "id":"T-Shirt 10",
+        "img":"../img/products/n2.jpg",
+        "marca":"ASTe",
+        "nombre":"Shirt",
+        "precio":7500
+    },
+    {
+        "id":"T-Shirt 11",
+        "img":"../img/products/n3.jpg",
+        "marca":"ASTe",
+        "nombre":"Shirt",
+        "precio":7500
+    },
+    {
+        "id":"T-Shirt 12",
+        "img":"../img/products/n4.jpg",
+        "marca":"ASTe",
+        "nombre":"Shirt",
+        "precio":7500
+    }
+    
+]
