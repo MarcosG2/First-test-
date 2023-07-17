@@ -1,4 +1,4 @@
-import produ from "../Proyecto pagina web-Raice/html/productos.json" assert { type: "json"}
+import produ from "html/productos.JSON" assert { type: "json"}
 
 /*Nav-bar*/
 const bar = document.getElementById('bar');
