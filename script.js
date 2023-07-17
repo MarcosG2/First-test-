@@ -1,4 +1,4 @@
-import produ from "/html/productos.json" assert { type: "json"}
+import produ from "./html/productos.json" assert { type: "json"}
 
 /*Nav-bar*/
 const bar = document.getElementById('bar');
